@@ -1,0 +1,1160 @@
+Script started on Wed Feb  8 08:07:48 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hggit clone [7mgit@github.com:nmachinesteve/GITymultiproc[7me[7mssing.git[27m[K[A[28C[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mn[27mm[27ma[27mc[27mh[27mi[27mn[27me[27ms[27mt[27me[27mv[27me[27m/[27mG[27mI[27mT[27my[27mm[27mu[27ml[27mt[27mi[27mp[27mr[27mo[27mce[27ms[27ms[27mi[27mn[27mg[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'GITymultiprocessing'...
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+warning: You appear to have cloned an empty repository.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hccd GITymultiprocessing[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit add README.md[?2004l
+fatal: pathspec 'README.md' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit init[?2004l
+Reinitialized existing Git repository in /Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit initadd README.md[?2004l
+fatal: pathspec 'README.md' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004h[7mecho "# GITymultiprocessing" >> README[7m.[7mmd[27m[K[A[39C[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mG[27mI[27mT[27my[27mm[27mu[27ml[27mt[27mi[27mp[27mr[27mo[27mc[27me[27ms[27ms[27mi[27mn[27mg[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE.[27mm[27md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hecho "# GITymultiprocessing" >> README.md[K[A[39Cgit add README.md[K[1B[K[A[59C[?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit comm it user.name nmachin@ucm.es[?2004l
+git: 'comit' is not a git command. See 'git --help'.
+
+The most similar command is
+	commit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit comit user.name nmachin@ucm.es[1Cmit user.name nmachin@ucm.es[28D[?2004l
+error: pathspec 'user.name' did not match any file(s) known to git
+error: pathspec 'nmachin@ucm.es' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit commit user.name nmachin@ucm.es[1C              "correo"[?2004l
+error: pathspec 'user.name' did not match any file(s) known to git
+error: pathspec 'correo' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit commit user.name "correo"[P[14C [15D[1C[P[13C [14Drname "correo"[13D[P[13C [14Drname "correo"[13D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C        nmachin@ucm.es[?2004l
+error: pathspec 'username' did not match any file(s) known to git
+error: pathspec 'nmachin@ucm.es' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit commit username nmachin@ucm.es       esteve[?2004l
+error: pathspec 'username' did not match any file(s) known to git
+error: pathspec 'nmachinesteve' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit config er,   user.name "nmachin@ucm.es"[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit commint    it -m 'prueba'[?2004l
+[main (root-commit) 6fc1a04] prueba
+ Committer: nmachin@ucm.es <nickmachin@nicksmac.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit pull[?2004l
+Your configuration specifies to merge with the ref 'refs/heads/main'
+from the remote, but no such ref was fetched.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hlls[?2004l
+README.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit add 0_procesos.py[?2004l
+fatal: pathspec '0_procesos.py' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 0_procesos.py   [?2004l
+fatal: pathspec '0_procesos' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hlls - l  ccd..[?2004l
+zsh: command not found: cd..
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hlls[?2004l
+0_procesos.py		3_procesos.py		multiprocessing.txt
+1_procesos.py		4_procesos.py		new0_procesos.py
+2_procesos.py		GITymultiprocessing
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hggit add 0_procesos.py[1m [0m[0m [?2004l
+fatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hggit  g  git add 0_procesos.py   [?2004l
+fatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hccd c  git add 0_procesos.py[21Dls                   [19Dcd .... git add 0_procesos.py[21Dls                   [19Dgit pullcommit -m 'prueba'[16Dnfig user.name "nmachin@ucm.es"[31Dmmit[5Cname nmachinesteve    @ucm.es[19D.name "correo"     [8Dnmachin@ucm.es[28D[P[27C [30Dadd README.md                 [17D[17Decho "# GITymultiprocessing" >> README.md[41Dgit add[24P[10C                        [24D[13Dinit         [9Dadd README.md[17Dcd GITymultiprocessing[22Dgit clone git@github.com:nmachinesteve/GITymultiprocessing.git[K[?2004l
+fatal: destination path 'GITymultiprocessing' already exists and is not an empty directory.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hggit init[?2004l
+Initialized empty Git repository in /Users/nickmachin/Desktop/proyectos/pprpa/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hggit GITymultiprocessing[?2004l
+git: 'GITymultiprocessing' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa[0m[27m[24m[Jnickmachin@nicksmac pprpa % [K[?2004hccd GITymultiprocessing[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit init[?2004l
+Reinitialized existing Git repository in /Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit add procesos.         0_procesos.py[?2004l
+fatal: pathspec '0_procesos.py' did not match any files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 0_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 0_procesos.py[1C[P[12C [13D1_procesos.py[12D[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 1_procesos.py[P[13C [14D[1C 1_procesos.py[13D[1C[P[12C [13D2_procesos.py[12D[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 2_procesos.py[1C[P[12C [13D3_procesos.py[12D[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 3_procesos.py[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hgit add 3_procesos.py[P[12C [13D4_procesos.py[12D[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit add  .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hggit pull[?2004l
+Your configuration specifies to merge with the ref 'refs/heads/main'
+from the remote, but no such ref was fetched.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hlls[?2004l
+0_procesos.py	2_procesos.py	4_procesos.py
+1_procesos.py	3_procesos.py	README.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004h[7mecho "# GITymultiprocessing" >> README[7m.[7mmd[27m[K
+[7mgit init[27m[K
+[7mgit add README.md[27m[K
+[7mgit commit -m "first commit"[27m[K
+[7mgit branch -M main[27m[K
+[7mgit remote add origin git@github.com:nmachinesteve/GITymultiprocessing.git[27m[K
+[7mgit push -u origin main[27m[K[7A[19C[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mG[27mI[27mT[27my[27mm[27mu[27ml[27mt[27mi[27mp[27mr[27mo[27mc[27me[27ms[27ms[27mi[27mn[27mg[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE.[27mm[27md[1B[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27mi[27mr[27ms[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mn[27mm[27ma[27mc[27mh[27mi[27mn[27me[27ms[27mt[27me[27mv[27me[27m/[27mG[27mI[27mT[27my[27mm[27mu[27ml[27mt[27mi[27mp[27mr[27mo[27mc[27me[27ms[27ms[27mi[27mn[27mg[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Reinitialized existing Git repository in /Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing/.git/
+[main cc31af2] first commit
+ Committer: nmachin@ucm.es <nickmachin@nicksmac.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 170 insertions(+)
+ create mode 100644 0_procesos.py
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+ create mode 100644 4_procesos.py
+error: remote origin already exists.
+Enumerating objects: 11, done.
+Counting objects:   9% (1/11)Counting objects:  18% (2/11)Counting objects:  27% (3/11)Counting objects:  36% (4/11)Counting objects:  45% (5/11)Counting objects:  54% (6/11)Counting objects:  63% (7/11)Counting objects:  72% (8/11)Counting objects:  81% (9/11)Counting objects:  90% (10/11)Counting objects: 100% (11/11)Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects:  12% (1/8)Compressing objects:  25% (2/8)Compressing objects:  37% (3/8)Compressing objects:  50% (4/8)Compressing objects:  62% (5/8)Compressing objects:  75% (6/8)Compressing objects:  87% (7/8)Compressing objects: 100% (8/8)Compressing objects: 100% (8/8), done.
+Writing objects:   9% (1/11)Writing objects:  18% (2/11)Writing objects:  27% (3/11)Writing objects:  36% (4/11)Writing objects:  63% (7/11)Writing objects:  72% (8/11)Writing objects:  81% (9/11)Writing objects:  90% (10/11)Writing objects: 100% (11/11)Writing objects: 100% (11/11), 1.72 KiB | 1.72 MiB/s, done.
+Total 11 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), done.[K
+To github.com:nmachinesteve/GITymultiprocessing.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hppython3.10 = 0_procesos.py[?2004l
+fin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 1
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hpython3.10 0_procesos.py[P[12C [13D1_procesos.py[12D[?2004l
+fin
+hola soy ana 0 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 9 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 8 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 4 vuelta 0
+adios
+hola soy ana 9 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 2 vuelta 2
+hola soy ana 1 vuelta 1
+hola soy ana 0 vuelta 2
+hola soy ana 3 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 9 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 4 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 7 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 8 vuelta 2
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hpython3.10 1_procesos.py[1C[P[12C [13D2_procesos.py[12D[?2004l
+fin
+hola soy ana_0, 74773, True, vuelta 0
+hola soy ana_2, 74775, True, vuelta 0
+adios
+hola soy ana_1, 74774, True, vuelta 0
+hola soy ana_0, 74773, True, vuelta 1
+hola soy ana_2, 74775, True, vuelta 1
+hola soy ana_1, 74774, True, vuelta 1
+hola soy ana_2, 74775, True, vuelta 2
+hola soy ana_0, 74773, True, vuelta 2
+hola soy ana_1, 74774, True, vuelta 2
+hola soy ana_1, 74774, True, vuelta 3
+hola soy ana_2, 74775, True, vuelta 3
+hola soy ana_0, 74773, True, vuelta 3
+hola soy ana_1, 74774, True, vuelta 4
+hola soy ana_2, 74775, True, vuelta 4
+hola soy ana_0, 74773, True, vuelta 4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hpython3.10 2_procesos.py[1C[P[12C [13D3_procesos.py[12D[?2004l
+Valor inicial del contador 0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+Traceback (most recent call last):
+    exitcode = _main(fd, parent_sentinel)
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hpython3.10 3_procesos.py[?2004l
+Valor inicial del contador 0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+  File "<string>", line 1, in <module>
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self = reduction.pickle.load(from_parent)
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self._semlock = _multiprocessing.SemLock._rebuild    self = reduction.pickle.load(from_parent)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+  File "<string>", line 1, in <module>
+FileNotFoundError: [Errno 2] No such file or directory
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004hpython3.10 3_procesos.py[P[12C [13D4_procesos.py[12D[?2004l
+Valor inicial del contador 0
+hola soy 74952, vuelta: 0, contador: 1
+hola soy 74952, vuelta: 1, contador: 2
+hola soy 74952, vuelta: 2, contador: 3
+hola soy 74952, vuelta: 3, contador: 4
+hola soy 74952, vuelta: 4, contador: 5
+hola soy 74952, vuelta: 5, contador: 6
+hola soy 74952, vuelta: 6, contador: 7
+hola soy 74952, vuelta: 7, contador: 8
+hola soy 74952, vuelta: 8, contador: 9
+hola soy 74952, vuelta: 9, contador: 10
+hola soy 74952, vuelta: 10, contador: 11
+hola soy 74952, vuelta: 11, contador: 12
+hola soy 74952, vuelta: 12, contador: 13
+hola soy 74952, vuelta: 13, contador: 14
+hola soy 74952, vuelta: 14, contador: 15
+hola soy 74952, vuelta: 15, contador: 16
+hola soy 74952, vuelta: 16, contador: 17
+hola soy 74952, vuelta: 17, contador: 18
+hola soy 74952, vuelta: 18, contador: 19
+hola soy 74952, vuelta: 19, contador: 20
+hola soy 74952, vuelta: 20, contador: 21
+hola soy 74952, vuelta: 21, contador: 22
+hola soy 74952, vuelta: 22, contador: 23
+hola soy 74952, vuelta: 23, contador: 24
+hola soy 74952, vuelta: 24, contador: 25
+hola soy 74952, vuelta: 25, contador: 26
+hola soy 74952, vuelta: 26, contador: 27
+hola soy 74952, vuelta: 27, contador: 28
+hola soy 74952, vuelta: 28, contador: 29
+hola soy 74952, vuelta: 29, contador: 30
+hola soy 74952, vuelta: 30, contador: 31
+hola soy 74952, vuelta: 31, contador: 32
+hola soy 74952, vuelta: 32, contador: 33
+hola soy 74952, vuelta: 33, contador: 34
+hola soy 74952, vuelta: 34, contador: 35
+hola soy 74952, vuelta: 35, contador: 36
+hola soy 74952, vuelta: 36, contador: 37
+hola soy 74952, vuelta: 37, contador: 38
+hola soy 74952, vuelta: 38, contador: 39
+hola soy 74952, vuelta: 39, contador: 40
+hola soy 74952, vuelta: 40, contador: 41
+hola soy 74952, vuelta: 41, contador: 42
+hola soy 74952, vuelta: 42, contador: 43
+hola soy 74952, vuelta: 43, contador: 44
+hola soy 74952, vuelta: 44, contador: 45
+hola soy 74952, vuelta: 45, contador: 46
+hola soy 74952, vuelta: 46, contador: 47
+hola soy 74952, vuelta: 47, contador: 48
+hola soy 74952, vuelta: 48, contador: 49
+hola soy 74952, vuelta: 49, contador: 50
+hola soy 74952, vuelta: 50, contador: 51
+hola soy 74952, vuelta: 51, contador: 52
+hola soy 74952, vuelta: 52, contador: 53
+hola soy 74952, vuelta: 53, contador: 54
+hola soy 74952, vuelta: 54, contador: 55
+hola soy 74952, vuelta: 55, contador: 56
+hola soy 74952, vuelta: 56, contador: 57
+hola soy 74952, vuelta: 57, contador: 58
+hola soy 74952, vuelta: 58, contador: 59
+hola soy 74952, vuelta: 59, contador: 60
+hola soy 74952, vuelta: 60, contador: 61
+hola soy 74952, vuelta: 61, contador: 62
+hola soy 74952, vuelta: 62, contador: 63
+hola soy 74952, vuelta: 63, contador: 64
+hola soy 74952, vuelta: 64, contador: 65
+hola soy 74952, vuelta: 65, contador: 66
+hola soy 74952, vuelta: 66, contador: 67
+hola soy 74952, vuelta: 67, contador: 68
+hola soy 74952, vuelta: 68, contador: 69
+hola soy 74952, vuelta: 69, contador: 70
+hola soy 74952, vuelta: 70, contador: 71
+hola soy 74952, vuelta: 71, contador: 72
+hola soy 74952, vuelta: 72, contador: 73
+hola soy 74952, vuelta: 73, contador: 74
+hola soy 74952, vuelta: 74, contador: 75
+hola soy 74952, vuelta: 75, contador: 76
+hola soy 74952, vuelta: 76, contador: 77
+hola soy 74952, vuelta: 77, contador: 78
+hola soy 74952, vuelta: 78, contador: 79
+hola soy 74952, vuelta: 79, contador: 80
+hola soy 74952, vuelta: 80, contador: 81
+hola soy 74952, vuelta: 81, contador: 82
+hola soy 74952, vuelta: 82, contador: 83
+hola soy 74952, vuelta: 83, contador: 84
+hola soy 74952, vuelta: 84, contador: 85
+hola soy 74952, vuelta: 85, contador: 86
+hola soy 74952, vuelta: 86, contador: 87
+hola soy 74952, vuelta: 87, contador: 88
+hola soy 74952, vuelta: 88, contador: 89
+hola soy 74952, vuelta: 89, contador: 90
+hola soy 74952, vuelta: 90, contador: 91
+hola soy 74952, vuelta: 91, contador: 92
+hola soy 74952, vuelta: 92, contador: 93
+hola soy 74952, vuelta: 93, contador: 94
+hola soy 74952, vuelta: 94, contador: 95
+hola soy 74952, vuelta: 95, contador: 96
+hola soy 74952, vuelta: 96, contador: 97
+hola soy 74952, vuelta: 97, contador: 98
+hola soy 74952, vuelta: 98, contador: 99
+hola soy 74952, vuelta: 99, contador: 100
+hola soy 74953, vuelta: 0, contador: 101
+hola soy 74953, vuelta: 1, contador: 102
+hola soy 74953, vuelta: 2, contador: 103
+hola soy 74953, vuelta: 3, contador: 104
+hola soy 74953, vuelta: 4, contador: 105
+hola soy 74953, vuelta: 5, contador: 106
+hola soy 74953, vuelta: 6, contador: 107
+hola soy 74953, vuelta: 7, contador: 108
+hola soy 74953, vuelta: 8, contador: 109
+hola soy 74951, vuelta: 0, contador: 110
+hola soy 74953, vuelta: 9, contador: 111
+hola soy 74955, vuelta: 0, contador: 112
+hola soy 74951, vuelta: 1, contador: 112
+hola soy 74958, vuelta: 0, contador: 113
+hola soy 74953, vuelta: 10, contador: 113
+hola soy 74955, vuelta: 1, contador: 114
+hola soy 74951, vuelta: 2, contador: 115
+hola soy 74958, vuelta: 1, contador: 115
+hola soy 74953, vuelta: 11, contador: 115
+hola soy 74955, vuelta: 2, contador: 116
+hola soy 74951, vuelta: 3, contador: 116
+hola soy 74958, vuelta: 2, contador: 117
+hola soy 74953, vuelta: 12, contador: 117
+hola soy 74955, vuelta: 3, contador: 118
+hola soy 74951, vuelta: 4, contador: 118
+hola soy 74958, vuelta: 3, contador: 119
+hola soy 74953, vuelta: 13, contador: 119
+hola soy 74955, vuelta: 4, contador: 120
+hola soy 74951, vuelta: 5, contador: 120
+hola soy 74958, vuelta: 4, contador: 121
+hola soy 74953, vuelta: 14, contador: 121
+hola soy 74951, vuelta: 6, contador: 122
+hola soy 74955, vuelta: 5, contador: 123
+hola soy 74958, vuelta: 5, contador: 123
+hola soy 74953, vuelta: 15, contador: 123
+hola soy 74955, vuelta: 6, contador: 124
+hola soy 74951, vuelta: 7, contador: 124
+hola soy 74958, vuelta: 6, contador: 125
+hola soy 74953, vuelta: 16, contador: 125
+hola soy 74955, vuelta: 7, contador: 126
+hola soy 74951, vuelta: 8, contador: 126
+hola soy 74958, vuelta: 7, contador: 127
+hola soy 74953, vuelta: 17, contador: 127
+hola soy 74955, vuelta: 8, contador: 128
+hola soy 74951, vuelta: 9, contador: 128
+hola soy 74958, vuelta: 8, contador: 129
+hola soy 74953, vuelta: 18, contador: 129
+hola soy 74955, vuelta: 9, contador: 130
+hola soy 74951, vuelta: 10, contador: 130
+hola soy 74958, vuelta: 9, contador: 131
+hola soy 74953, vuelta: 19, contador: 131
+hola soy 74955, vuelta: 10, contador: 132
+hola soy 74951, vuelta: 11, contador: 132
+hola soy 74958, vuelta: 10, contador: 133
+hola soy 74953, vuelta: 20, contador: 134
+hola soy 74955, vuelta: 11, contador: 134
+hola soy 74951, vuelta: 12, contador: 134
+hola soy 74958, vuelta: 11, contador: 135
+hola soy 74953, vuelta: 21, contador: 136
+hola soy 74955, vuelta: 12, contador: 136
+hola soy 74951, vuelta: 13, contador: 136
+hola soy 74958, vuelta: 12, contador: 137
+hola soy 74953, vuelta: 22, contador: 138
+hola soy 74955, vuelta: 13, contador: 138
+hola soy 74951, vuelta: 14, contador: 138
+hola soy 74958, vuelta: 13, contador: 139
+hola soy 74953, vuelta: 23, contador: 140
+hola soy 74955, vuelta: 14, contador: 141
+hola soy 74951, vuelta: 15, contador: 141
+hola soy 74958, vuelta: 14, contador: 141
+hola soy 74953, vuelta: 24, contador: 142
+hola soy 74951, vuelta: 16, contador: 143
+hola soy 74955, vuelta: 15, contador: 143
+hola soy 74958, vuelta: 15, contador: 143
+hola soy 74951, vuelta: 17, contador: 144
+hola soy 74953, vuelta: 25, contador: 144
+hola soy 74955, vuelta: 16, contador: 145
+hola soy 74958, vuelta: 16, contador: 145
+hola soy 74951, vuelta: 18, contador: 146
+hola soy 74953, vuelta: 26, contador: 146
+hola soy 74955, vuelta: 17, contador: 147
+hola soy 74958, vuelta: 17, contador: 147
+hola soy 74951, vuelta: 19, contador: 148
+hola soy 74953, vuelta: 27, contador: 149
+hola soy 74955, vuelta: 18, contador: 149
+hola soy 74958, vuelta: 18, contador: 149
+hola soy 74951, vuelta: 20, contador: 150
+hola soy 74953, vuelta: 28, contador: 151
+hola soy 74955, vuelta: 19, contador: 151
+hola soy 74958, vuelta: 19, contador: 151
+hola soy 74951, vuelta: 21, contador: 152
+hola soy 74953, vuelta: 29, contador: 152
+hola soy 74955, vuelta: 20, contador: 152
+hola soy 74958, vuelta: 20, contador: 152
+hola soy 74951, vuelta: 22, contador: 153
+hola soy 74953, vuelta: 30, contador: 153
+hola soy 74955, vuelta: 21, contador: 153
+hola soy 74958, vuelta: 21, contador: 153
+hola soy 74951, vuelta: 23, contador: 154
+hola soy 74953, vuelta: 31, contador: 154
+hola soy 74955, vuelta: 22, contador: 154
+hola soy 74958, vuelta: 22, contador: 154
+hola soy 74951, vuelta: 24, contador: 155
+hola soy 74953, vuelta: 32, contador: 155
+hola soy 74955, vuelta: 23, contador: 155
+hola soy 74958, vuelta: 23, contador: 155
+hola soy 74953, vuelta: 33, contador: 156
+hola soy 74951, vuelta: 25, contador: 156
+hola soy 74955, vuelta: 24, contador: 156
+hola soy 74958, vuelta: 24, contador: 156
+hola soy 74953, vuelta: 34, contador: 157
+hola soy 74951, vuelta: 26, contador: 157
+hola soy 74955, vuelta: 25, contador: 157
+hola soy 74958, vuelta: 25, contador: 157
+hola soy 74953, vuelta: 35, contador: 158
+hola soy 74951, vuelta: 27, contador: 158
+hola soy 74955, vuelta: 26, contador: 158
+hola soy 74958, vuelta: 26, contador: 158
+hola soy 74953, vuelta: 36, contador: 159
+hola soy 74955, vuelta: 27, contador: 159
+hola soy 74951, vuelta: 28, contador: 159
+hola soy 74958, vuelta: 27, contador: 159
+hola soy 74953, vuelta: 37, contador: 160
+hola soy 74955, vuelta: 28, contador: 161
+hola soy 74951, vuelta: 29, contador: 161
+hola soy 74958, vuelta: 28, contador: 162
+hola soy 74953, vuelta: 38, contador: 162
+hola soy 74955, vuelta: 29, contador: 162
+hola soy 74951, vuelta: 30, contador: 162
+hola soy 74958, vuelta: 29, contador: 163
+hola soy 74953, vuelta: 39, contador: 164
+hola soy 74955, vuelta: 30, contador: 164
+hola soy 74951, vuelta: 31, contador: 164
+hola soy 74958, vuelta: 30, contador: 165
+hola soy 74953, vuelta: 40, contador: 165
+hola soy 74951, vuelta: 32, contador: 165
+hola soy 74955, vuelta: 31, contador: 165
+hola soy 74958, vuelta: 31, contador: 166
+hola soy 74953, vuelta: 41, contador: 167
+hola soy 74951, vuelta: 33, contador: 167
+hola soy 74955, vuelta: 32, contador: 167
+hola soy 74958, vuelta: 32, contador: 168
+hola soy 74953, vuelta: 42, contador: 169
+hola soy 74951, vuelta: 34, contador: 169
+hola soy 74955, vuelta: 33, contador: 169
+hola soy 74958, vuelta: 33, contador: 170
+hola soy 74953, vuelta: 43, contador: 171
+hola soy 74951, vuelta: 35, contador: 171
+hola soy 74955, vuelta: 34, contador: 171
+hola soy 74958, vuelta: 34, contador: 172
+hola soy 74953, vuelta: 44, contador: 173
+hola soy 74951, vuelta: 36, contador: 173
+hola soy 74955, vuelta: 35, contador: 173
+hola soy 74958, vuelta: 35, contador: 174
+hola soy 74953, vuelta: 45, contador: 175
+hola soy 74951, vuelta: 37, contador: 175
+hola soy 74955, vuelta: 36, contador: 175
+hola soy 74958, vuelta: 36, contadohola soy 74953, vuelta: 46, contador: 177
+r: 176
+hola soy 74951, vuelta: 38, contador: 177
+hola soy 74955, vuelta: 37, contador: 177
+hola soy 74953, vuelta: 47, contador: 178
+hola soy 74953, vuelta: 48, contador: 179
+hola soy 74953, vuelta: 49, contador: 180
+hola soy 74951, vuelta: 39, contador: 180
+hola soy 74955, vuelta: 38, contador: 180
+hola soy 74958, vuelta: 37, contador: 181
+hola soy 74951, vuelta: 40, contador: 182
+hola soy 74955, vuelta: 39, contador: 182
+hola soy 74953, vuelta: 50, contador: 182
+hola soy 74958, vuelta: 38, contador: 183
+hola soy 74951, vuelta: 41, contador: 184
+hola soy 74955, vuelta: 40, contador: 184
+hola soy 74953, vuelta: 51, contador: 184
+hola soy 74958, vuelta: 39, contador: 185
+hola soy 74951, vuelta: 42, contador: 186
+hola soy 74955, vuelta: 41, contador: 186
+hola soy 74953, vuelta: 52, contador: 186
+hola soy 74958, vuelta: 40, contador: 187
+hola soy 74957, vuelta: 0, contador: 188
+hola soy 74951, vuelta: 43, contador: 188
+hola soy 74955, vuelta: 42, contador: 188
+hola soy 74953, vuelta: 53, contador: 188
+hola soy 74958, vuelta: 41, contador: 189
+hola soy 74957, vuelta: 1, contador: 190
+hola soy 74955, vuelta: 43, contador: 190
+hola soy 74951, vuelta: 44, contador: 190
+hola soy 74953, vuelta: 54, contador: 190
+hola soy 74958, vuelta: 42, contador: 191
+hola soy 74957, vuelta: 2, contador: 192
+hola soy 74955, vuelta: 44, contador: 192
+hola soy 74951, vuelta: 45, contador: 192
+hola soy 74953, vuelta: 55, contador: 192
+hola soy 74958, vuelta: 43, contador: 193
+hola soy 74957, vuelta: 3, contador: 194
+hola soy 74955, vuelta: 45, contador: 194
+hola soy 74951, vuelta: 46, contador: 194
+hola soy 74953, vuelta: 56, contador: 194
+hola soy 74958, vuelta: 44, contador: 195
+hola soy 74955, vuelta: 46, contador: 196
+hola soy 74957, vuelta: 4, contador: 196
+hola soy 74951, vuelta: 47, contador: 196
+hola soy 74953, vuelta: 57, contador: 196
+hola soy 74958, vuelta: 45, contador: 197
+hola soy 74955, vuelta: 47, contador: 198
+hola soy 74951, vuelta: 48, contador: 198
+hola soy 74957, vuelta: 5, contador: 198
+hola soy 74953, vuelta: 58, contador: 198
+hola soy 74958, vuelta: 46, contador: 199
+hola soy 74955, vuelta: 48, contador: 200
+hola soy 74951, vuelta: 49, contador: 200
+hola soy 74957, vuelta: 6, contador: 200
+hola soy 74953, vuelta: 59, contador: 200
+hola soy 74958, vuelta: 47, contador: 201
+hola soy 74955, vuelta: 49, contador: 202
+hola soy 74951, vuelta: 50, contador: 202
+hola soy 74957, vuelta: 7, contador: 202
+hola soy 74953, vuelta: 60, contador: 202
+hola soy 74958, vuelta: 48, contador: 203
+hola soy 74955, vuelta: 50, contador: 204
+hola soy 74951, vuelta: 51, contador: 204
+hola soy 74957, vuelta: 8, contador: 204
+hola soy 74953, vuelta: 61, contador: 204
+hola soy 74958, vuelta: 49, contador: 205
+hola soy 74955, vuelta: 51, contador: 206
+hola soy 74951, vuelta: 52, contador: 206
+hola soy 74957, vuelta: 9, contador: 206
+hola soy 74953, vuelta: 62, contador: 206
+hola soy 74958, vuelta: 50, contador: 207
+hola soy 74951, vuelta: 53, contador: 208
+hola soy 74955, vuelta: 52, contador: 208
+hola soy 74953, vuelta: 63, contador: 208
+hola soy 74957, vuelta: 10, contador: 208
+hola soy 74958, vuelta: 51, contador: 209
+hola soy 74951, vuelta: 54, contador: 210
+hola soy 74953, vuelta: 64, contador: 210
+hola soy 74955, vuelta: 53, contador: 210
+hola soy 74957, vuelta: 11, contador: 210
+hola soy 74958, vuelta: 52, contador: 211
+hola soy 74951, vuelta: 55, contador: 212
+hola soy 74953, vuelta: 65, contador: 212
+hola soy 74955, vuelta: 54, contador: 212
+hola soy 74957, vuelta: 12, contador: 212
+hola soy 74958, vuelta: 53, contador: 213
+hola soy 74951, vuelta: 56, contador: 214
+hola soy 74953, vuelta: 66, contador: 214
+hola soy 74955, vuelta: 55, contador: 214
+hola soy 74957, vuelta: 13, contador: 214
+hola soy 74958, vuelta: 54, contador: 215
+hola soy 74951, vuelta: 57, contador: 216
+hola soy 74953, vuelta: 67, contador: 216
+hola soy 74955, vuelta: 56, contador: 216
+hola soy 74957, vuelta: 14, contadohola soy 74953, vuelta: 68, contador: 218
+r: 216
+hola soy 74958, vuelta: 55, contador: 217
+hola soy 74955, vuelta: 57, contador: 218
+hola soy 74951, vuelta: 58, contador: 218
+hola soy 74957, vuelta: 15, contador: 219
+hola soy 74958, vuelta: 56, contador: 220
+hola soy 74951, vuelta: 59, contador: 220
+hola soy 74953, vuelta: 69, contador: 220
+hola soy 74955, vuelta: 58, contador: 220
+hola soy 74957, vuelta: 16, contador: 221
+hola soy 74958, vuelta: 57, contador: 222
+hola soy 74951, vuelta: 60, contador: 222
+hola soy 74953, vuelta: 70, contador: 222
+hola soy 74955, vuelta: 59, contador: 222
+hola soy 74957, vuelta: 17, contador: 223
+hola soy 74958, vuelta: 58, contador: 224
+hola soy 74951, vuelta: 61, contador: 224
+hola soy 74953, vuelta: 71, contador: 224
+hola soy 74954, vuelta: 0, contador: 224
+hola soy 74955, vuelta: 60, contador: 224
+hola soy 74957, vuelta: 18, contador: 225
+hola soy 74956, vuelta: 0, contador: 226
+hola soy 74958, vuelta: 59, contador: 226
+hola soy 74951, vuelta: 62, contador: 226
+hola soy 74953, vuelta: 72, contador: 226
+hola soy 74954, vuelta: 1, contador: 226
+hola soy 74955, vuelta: 61, contador: 226
+hola soy 74957, vuelta: 19, contador: 227
+hola soy 74956, vuelta: 1, contador: 228
+hola soy 74958, vuelta: 60, contador: 228
+hola soy 74951, vuelta: 63, contador: 228
+hola soy 74953, vuelta: 73, contador: 228
+hola soy 74954, vuelta: 2, contador: 228
+hola soy 74955, vuelta: 62, contador: 228
+hola soy 74957, vuelta: 20, contador: 229
+hola soy 74956, vuelta: 2, contador: 230
+hola soy 74958, vuelta: 61, contador: 230
+hola soy 74951, vuelta: 64, contador: 230
+hola soy 74953, vuelta: 74, contador: 230
+hola soy 74954, vuelta: 3, contador: 230
+hola soy 74955, vuelta: 63, contador: 230
+hola soy 74957, vuelta: 21, contador: 231
+hola soy 74956, vuelta: 3, contador: 232
+hola soy 74958, vuelta: 62, contador: 232
+hola soy 74951, vuelta: 65, contador: 232
+hola soy 74953, vuelta: 75, contador: 232
+hola soy 74954, vuelta: 4, contador: 232
+hola soy 74955, vuelta: 64, contador: 232
+hola soy 74957, vuelta: 22, contador: 233
+hola soy 74956, vuelta: 4, contador: 234
+hola soy 74958, vuelta: 63, contador: 234
+hola soy 74951, vuelta: 66, contador: 234
+hola soy 74953, vuelta: 76, contador: 234
+hola soy 74954, vuelta: 5, contador: 234
+hola soy 74955, vuelta: 65, contador: 234
+hola soy 74957, vuelta: 23, contador: 235
+hola soy 74956, vuelta: 5, contador: 236
+hola soy 74951, vuelta: 67, contador: 236
+hola soy 74958, vuelta: 64, contador: 236
+hola soy 74953, vuelta: 77, contador: 236
+hola soy 74954, vuelta: 6, contador: 237
+hola soy 74955, vuelta: 66, contador: 237
+hola soy 74957, vuelta: 24, contador: 238
+hola soy 74951, vuelta: 68, contador: 238
+hola soy 74956, vuelta: 6, contador: 238
+hola soy 74958, vuelta: 65, contador: 238
+hola soy 74953, vuelta: 78, contador: 239
+hola soy 74954, vuelta: 7, contador: 239
+hola soy 74955, vuelta: 67, contador: 239
+hola soy 74957, vuelta: 25, contador: 240
+hola soy 74951, vuelta: 69, contador: 240
+hola soy 74956, vuelta: 7, contador: 240
+hola soy 74958, vuelta: 66, contador: 240
+hola soy 74953, vuelta: 79, contador: 240
+hola soy 74954, vuelta: 8, contador: 241
+hola soy 74955, vuelta: 68, contador: 241
+hola soy 74957, vuelta: 26, contador: 242
+hola soy 74951, vuelta: 70, contador: 242
+hola soy 74956, vuelta: 8, contador: 242
+hola soy 74958, vuelta: 67, contador: 242
+hola soy 74953, vuelta: 80, contador: 242
+hola soy 74955, vuelta: 69, contador: 243
+hola soy 74954, vuelta: 9, contador: 243
+hola soy 74957, vuelta: 27, contador: 244
+hola soy 74951, vuelta: 71, contador: 244
+hola soy 74956, vuelta: 9, contador: 244
+hola soy 74958, vuelta: 68, contador: 244
+hola soy 74953, vuelta: 81, contador: 244
+hola soy 74955, vuelta: 70, contador: 245
+hola soy 74954, vuelta: 10, contador: 245
+hola soy 74957, vuelta: 28, contador: 246
+hola soy 74951, vuelta: 72, contador: 246
+hola soy 74956, vuelta: 10, contador: 246
+hola soy 74958, vuelta: 69, contador: 247
+hola soy 74953, vuelta: 82, contador: 247
+hola soy 74955, vuelta: 71, contador: 247
+hola soy 74954, vuelta: 11, contador: 248
+hola soy 74957, vuelta: 29, contador: 248
+hola soy 74951, vuelta: 73, contador: 249
+hola soy 74956, vuelta: 11, contador: 249
+hola soy 74958, vuelta: 70, contador: 249
+hola soy 74953, vuelta: 83, contador: 249
+hola soy 74955, vuelta: 72, contador: 250
+hola soy 74954, vuelta: 12, contador: 250
+hola soy 74957, vuelta: 30, contador: 251
+hola soy 74951, vuelta: 74, contador: 251
+hola soy 74956, vuelta: 12, contador: 251
+hola soy 74958, vuelta: 71, contador: 252
+hola soy 74953, vuelta: 84, contador: 252
+hola soy 74955, vuelta: 73, contador: 252
+hola soy 74954, vuelta: 13, contador: 253
+hola soy 74957, vuelta: 31, contador: 253
+hola soy 74951, vuelta: 75, contador: 254
+hola soy 74956, vuelta: 13, contador: 254
+hola soy 74958, vuelta: 72, contador: 254
+hola soy 74953, vuelta: 85, contador: 254
+hola soy 74955, vuelta: 74, contador: 255
+hola soy 74954, vuelta: 14, contador: 255
+hola soy 74957, vuelta: 32, contador: 255
+hola soy 74951, vuelta: 76, contador: 256
+hola soy 74956, vuelta: 14, contador: 256
+hola soy 74958, vuelta: 73, contador: 256
+hola soy 74953, vuelta: 86, contador: 256
+hola soy 74955, vuelta: 75, contador: 257
+hola soy 74954, vuelta: 15, contador: 257
+hola soy 74957, vuelta: 33, contador: 257
+hola soy 74951, vuelta: 77, contador: 258
+hola soy 74956, vuelta: 15, contador: 258
+hola soy 74953, vuelta: 87, contador: 258
+hola soy 74958, vuelta: 74, contador: 258
+hola soy 74955, vuelta: 76, contador: 259
+hola soy 74954, vuelta: 16, contador: 259
+hola soy 74957, vuelta: 34, contador: 259
+hola soy 74951, vuelta: 78, contador: 260
+hola soy 74956, vuelta: 16, contador: 260
+hola soy 74953, vuelta: 88, contador: 260
+hola soy 74958, vuelta: 75, contador: 260
+hola soy 74955, vuelta: 77, contador: 261
+hola soy 74954, vuelta: 17, contador: 261
+hola soy 74957, vuelta: 35, contador: 261
+hola soy 74951, vuelta: 79, contador: 262
+hola soy 74956, vuelta: 17, contador: 262
+hola soy 74953, vuelta: 89, contador: 262
+hola soy 74958, vuelta: 76, contador: 263
+hola soy 74955, vuelta: 78, contador: 263
+hola soy 74954, vuelta: 18, contador: 263
+hola soy 74957, vuelta: 36, contador: 264
+hola soy 74951, vuelta: 80, contador: 264
+hola soy 74956, vuelta: 18, contador: 264
+hola soy 74953, vuelta: 90, contador: 265
+hola soy 74958, vuelta: 77, contador: 265
+hola soy 74955, vuelta: 79, contador: 265
+hola soy 74954, vuelta: 19, contador: 266
+hola soy 74957, vuelta: 37, contador: 266
+hola soy 74951, vuelta: 81, contador: 266
+hola soy 74956, vuelta: 19, contador: 267
+hola soy 74953, vuelta: 91, contador: 267
+hola soy 74958, vuelta: 78, contador: 268
+hola soy 74955, vuelta: 80, contador: 268
+hola soy 74954, vuelta: 20, contador: 268
+hola soy 74957, vuelta: 38, contador: 269
+hola soy 74951, vuelta: 82, contador: 269
+hola soy 74956, vuelta: 20, contador: 269
+hola soy 74953, vuelta: 92, contador: 270
+hola soy 74958, vuelta: 79, contador: 270
+hola soy 74955, vuelta: 81, contador: 270
+hola soy 74954, vuelta: 21, contador: 271
+hola soy 74957, vuelta: 39, contador: 271
+hola soy 74951, vuelta: 83, contador: 271
+hola soy 74956, vuelta: 21, contador: 272
+hola soy 74953, vuelta: 93, contador: 272
+hola soy 74958, vuelta: 80, contador: 273
+hola soy 74955, vuelta: 82, contador: 273
+hola soy 74954, vuelta: 22, contador: 273
+hola soy 74957, vuelta: 40, contador: 274
+hola soy 74951, vuelta: 84, contador: 274
+hola soy 74956, vuelta: 22, contador: 274
+hola soy 74953, vuelta: 94, contador: 275
+hola soy 74958, vuelta: 81, contador: 275
+hola soy 74955, vuelta: 83, contador: 275
+hola soy 74954, vuelta: 23, contador: 276
+hola soy 74957, vuelta: 41, contador: 276
+hola soy 74951, vuelta: 85, contador: 276
+hola soy 74956, vuelta: 23, contador: 277
+hola soy 74953, vuelta: 95, contador: 278
+hola soy 74958, vuelta: 82, contador: 278
+hola soy 74955, vuelta: 84, contador: 278
+hola soy 74954, vuelta: 24, contador: 278
+hola soy 74957, vuelta: 42, contador: 279
+hola soy 74951, vuelta: 86, contador: 279
+hola soy 74956, vuelta: 24, contador: 279
+hola soy 74953, vuelta: 96, contador: 280
+hola soy 74958, vuelta: 83, contador: 280
+hola soy 74955, vuelta: 85, contador: 280
+hola soy 74954, vuelta: 25, contador: 281
+hola soy 74957, vuelta: 43, contador: 281
+hola soy 74951, vuelta: 87, contador: 282
+hola soy 74956, vuelta: 25, contador: 282
+hola soy 74953, vuelta: 97, contador: 282
+hola soy 74958, vuelta: 84, contador: 283
+hola soy 74955, vuelta: 86, contador: 283
+hola soy 74954, vuelta: 26, contador: 283
+hola soy 74957, vuelta: 44, contador: 284
+hola soy 74951, vuelta: 88, contador: 284
+hola soy 74956, vuelta: 26, contador: 284
+hola soy 74953, vuelta: 98, contador: 285
+hola soy 74958, vuelta: 85, contador: 285
+hola soy 74955, vuelta: 87, contador: 285
+hola soy 74954, vuelta: 27, contador: 286
+hola soy 74957, vuelta: 45, contador: 286
+hola soy 74951, vuelta: 89, contador: 287
+hola soy 74956, vuelta: 27, contador: 287
+hola soy 74953, vuelta: 99, contador: 287
+hola soy 74955, vuelta: 88, contador: 288
+hola soy 74958, vuelta: 86, contador: 288
+hola soy 74954, vuelta: 28, contador: 288
+hola soy 74957, vuelta: 46, contador: 289
+hola soy 74951, vuelta: 90, contador: 289
+hola soy 74956, vuelta: 28, contador: 290
+hola soy 74958, vuelta: 87, contador: 290
+hola soy 74955, vuelta: 89, contador: 290
+hola soy 74954, vuelta: 29, contador: 291
+hola soy 74957, vuelta: 47, contador: 291
+hola soy 74951, vuelta: 91, contador: 291
+hola soy 74956, vuelta: 29, contador: 292
+hola soy 74958, vuelta: 88, contador: 292
+hola soy 74955, vuelta: 90, contador: 292
+hola soy 74954, vuelta: 30, contador: 293
+hola soy 74957, vuelta: 48, contador: 293
+hola soy 74951, vuelta: 92, contador: 293
+hola soy 74956, vuelta: 30, contador: 294
+hola soy 74958, vuelta: 89, contador: 294
+hola soy 74955, vuelta: 91, contador: 295
+hola soy 74954, vuelta: 31, contador: 295
+hola soy 74957, vuelta: 49, contador: 295
+hola soy 74951, vuelta: 93, contador: 295
+hola soy 74956, vuelta: 31, contador: 296
+hola soy 74958, vuelta: 90, contador: 296
+hola soy 74955, vuelta: 92, contador: 297
+hola soy 74954, vuelta: 32, contador: 297
+hola soy 74957, vuelta: 50, contador: 298
+hola soy 74951, vuelta: 94, contador: 298
+hola soy 74956, vuelta: 32, contador: 298
+hola soy 74958, vuelta: 91, contador: 299
+hola soy 74955, vuelta: 93, contador: 299
+hola soy 74954, vuelta: 33, contador: 300
+hola soy 74957, vuelta: 51, contador: 300
+hola soy 74951, vuelta: 95, contador: 300
+hola soy 74956, vuelta: 33, contador: 300
+hola soy 74955, vuelta: 94, contador: 301
+hola soy 74958, vuelta: 92, contador: 301
+hola soy 74954, vuelta: 34, contador: 302
+hola soy 74957, vuelta: 52, contador: 302
+hola soy 74951, vuelta: 96, contador: 302
+hola soy 74956, vuelta: 34, contador: 302
+hola soy 74955, vuelta: 95, contador: 303
+hola soy 74958, vuelta: 93, contador: 303
+hola soy 74954, vuelta: 35, contador: 304
+hola soy 74951, vuelta: 97, contador: 304
+hola soy 74957, vuelta: 53, contador: 304
+hola soy 74956, vuelta: 35, contador: 304
+hola soy 74955, vuelta: 96, contador: 305
+hola soy 74958, vuelta: 94, contador: 305
+hola soy 74954, vuelta: 36, contador: 306
+hola soy 74957, vuelta: 54, contador: 306
+hola soy 74951, vuelta: 98, contador: 306
+hola soy 74956, vuelta: 36, contador: 306
+hola soy 74955, vuelta: 97, contador: 307
+hola soy 74958, vuelta: 95, contador: 307
+hola soy 74954, vuelta: 37, contador: 308
+hola soy 74957, vuelta: 55, contador: 308
+hola soy 74951, vuelta: 99, contador: 308
+hola soy 74956, vuelta: 37, contador: 308
+hola soy 74955, vuelta: 98, contador: 309
+hola soy 74958, vuelta: 96, contador: 310
+hola soy 74954, vuelta: 38, contador: 310
+hola soy 74956, vuelta: 38, contador: 310
+hola soy 74957, vuelta: 56, contador: 310
+hola soy 74955, vuelta: 99, contador: 311
+hola soy 74958, vuelta: 97, contador: 312
+hola soy 74954, vuelta: 39, contador: 312
+hola soy 74956, vuelta: 39, contador: 312
+hola soy 74957, vuelta: 57, contador: 312
+hola soy 74958, vuelta: 98, contador: 313
+hola soy 74954, vuelta: 40, contador: 314
+hola soy 74956, vuelta: 40, contador: 314
+hola soy 74957, vuelta: 58, contador: 314
+hola soy 74958, vuelta: 99, contador: 315
+hola soy 74954, vuelta: 41, contador: 316
+hola soy 74956, vuelta: 41, contador: 316
+hola soy 74957, vuelta: 59, contador: 316
+hola soy 74954, vuelta: 42, contador: 317
+hola soy 74956, vuelta: 42, contador: 318
+hola soy 74957, vuelta: 60, contador: 318
+hola soy 74954, vuelta: 43, contador: 319
+hola soy 74956, vuelta: 43, contador: 320
+hola soy 74957, vuelta: 61, contador: 321
+hola soy 74954, vuelta: 44, contador: 321
+hola soy 74956, vuelta: 44, contador: 321
+hola soy 74957, vuelta: 62, contador: 322
+hola soy 74954, vuelta: 45, contador: 322
+hola soy 74956, vuelta: 45, contador: 322
+hola soy 74957, vuelta: 63, contador: 323
+hola soy 74954, vuelta: 46, contador: 323
+hola soy 74956, vuelta: 46, contador: 323
+hola soy 74957, vuelta: 64, contador: 324
+hola soy 74954, vuelta: 47, contador: 324
+hola soy 74957, vuelta: 65, contador: 325
+hola soy 74957, vuelta: 66, contador: 326
+hola soy 74956, vuelta: 47, contador: 324
+hola soy 74954, vuelta: 48, contador: 327
+hola soy 74957, vuelta: 67, contador: 327
+hola soy 74956, vuelta: 48, contador: 327
+hola soy 74954, vuelta: 49, contador: 328
+hola soy 74957, vuelta: 68, contador: 328
+hola soy 74956, vuelta: 49, contador: 328
+hola soy 74954, vuelta: 50, contador: 329
+hola soy 74956, vuelta: 50, contador: 329
+hola soy 74954, vuelta: 51, contador: 330
+hola soy 74956, vuelta: 51, contador: 330
+hola soy 74954, vuelta: 52, contador: 331
+hola soy 74954, vuelta: 53, contador: 332
+hola soy 74957, vuelta: 69, contador: 330
+hola soy 74954, vuelta: 54, contador: 333
+hola soy 74954, vuelta: 55, contador: 334
+hola soy 74957, vuelta: 70, contador: 335
+hola soy 74954, vuelta: 56, contador: 335
+hola soy 74956, vuelta: 52, contador: 335
+hola soy 74954, vuelta: 57, contador: 336
+hola soy 74956, vuelta: 53, contador: 336
+hola soy 74957, vuelta: 71, contador: 336
+hola soy 74954, vuelta: 58, contador: 337
+hola soy 74956, vuelta: 54, contador: 337
+hola soy 74957, vuelta: 72, contador: 337
+hola soy 74954, vuelta: 59, contador: 338
+hola soy 74956, vuelta: 55, contador: 338
+hola soy 74957, vuelta: 73, contador: 338
+hola soy 74954, vuelta: 60, contador: 339
+hola soy 74956, vuelta: 56, contador: 339
+hola soy 74957, vuelta: 74, contador: 339
+hola soy 74954, vuelta: 61, contador: 340
+hola soy 74956, vuelta: 57, contador: 340
+hola soy 74957, vuelta: 75, contador: 340
+hola soy 74954, vuelta: 62, contador: 341
+hola soy 74956, vuelta: 58, contador: 342
+hola soy 74957, vuelta: 76, contador: 342
+hola soy 74954, vuelta: 63, contador: 343
+hola soy 74956, vuelta: 59, contador: 344
+hola soy 74957, vuelta: 77, contador: 344
+hola soy 74954, vuelta: 64, contador: 345
+hola soy 74956, vuelta: 60, contador: 346
+hola soy 74957, vuelta: 78, contador: 346
+hola soy 74954, vuelta: 65, contador: 347
+hola soy 74956, vuelta: 61, contador: 348
+hola soy 74957, vuelta: 79, contador: 348
+hola soy 74954, vuelta: 66, contador: 349
+hola soy 74956, vuelta: 62, contador: 349
+hola soy 74957, vuelta: 80, contador: 350
+hola soy 74954, vuelta: 67, contador: 351
+hola soy 74956, vuelta: 63, contador: 351
+hola soy 74957, vuelta: 81, contador: 352
+hola soy 74954, vuelta: 68, contador: 353
+hola soy 74956, vuelta: 64, contador: 353
+hola soy 74957, vuelta: 82, contador: 354
+hola soy 74954, vuelta: 69, contador: 355
+hola soy 74956, vuelta: 65, contador: 355
+hola soy 74957, vuelta: 83, contador: 356
+hola soy 74954, vuelta: 70, contador: 357
+hola soy 74956, vuelta: 66, contador: 357
+hola soy 74957, vuelta: 84, contador: 358
+hola soy 74954, vuelta: 71, contador: 359
+hola soy 74956, vuelta: 67, contador: 359
+hola soy 74957, vuelta: 85, contador: 360
+hola soy 74954, vuelta: 72, contador: 361
+hola soy 74956, vuelta: 68, contador: 361
+hola soy 74957, vuelta: 86, contador: 362
+hola soy 74954, vuelta: 73, contador: 363
+hola soy 74956, vuelta: 69, contador: 363
+hola soy 74957, vuelta: 87, contador: 364
+hola soy 74954, vuelta: 74, contador: 364
+hola soy 74957, vuelta: 88, contador: 365
+hola soy 74954, vuelta: 75, contador: 365
+hola soy 74956, vuelta: 70, contador: 365
+hola soy 74957, vuelta: 89, contador: 366
+hola soy 74954, vuelta: 76, contador: 367
+hola soy 74957, vuelta: 90, contador: 368
+hola soy 74954, vuelta: 77, contador: 369
+hola soy 74957, vuelta: 91, contador: 370
+hola soy 74954, vuelta: 78, contador: 371
+hola soy 74956, vuelta: 71, contador: 371
+hola soy 74957, vuelta: 92, contador: 372
+hola soy 74954, vuelta: 79, contador: 373
+hola soy 74956, vuelta: 72, contador: 373
+hola soy 74957, vuelta: 93, contador: 374
+hola soy 74954, vuelta: 80, contador: 375
+hola soy 74956, vuelta: 73, contador: 375
+hola soy 74957, vuelta: 94, contador: 376
+hola soy 74954, vuelta: 81, contador: 376
+hola soy 74956, vuelta: 74, contador: 377
+hola soy 74957, vuelta: 95, contador: 378
+hola soy 74954, vuelta: 82, contador: 378
+hola soy 74956, vuelta: 75, contador: 379
+hola soy 74957, vuelta: 96, contador: 380
+hola soy 74954, vuelta: 83, contador: 380
+hola soy 74956, vuelta: 76, contador: 381
+hola soy 74957, vuelta: 97, contador: 382
+hola soy 74954, vuelta: 84, contador: 382
+hola soy 74956, vuelta: 77, contador: 383
+hola soy 74957, vuelta: 98, contador: 384
+hola soy 74954, vuelta: 85, contador: 384
+hola soy 74956, vuelta: 78, contador: 385
+hola soy 74957, vuelta: 99, contador: 386
+hola soy 74954, vuelta: 86, contador: 386
+hola soy 74956, vuelta: 79, contador: 387
+hola soy 74954, vuelta: 87, contador: 388
+hola soy 74956, vuelta: 80, contador: 389
+hola soy 74954, vuelta: 88, contador: 390
+hola soy 74956, vuelta: 81, contador: 391
+hola soy 74954, vuelta: 89, contador: 392
+hola soy 74956, vuelta: 82, contador: 393
+hola soy 74954, vuelta: 90, contador: 394
+hola soy 74954, vuelta: 91, contador: 396
+hola soy 74954, vuelta: 92, contador: 397
+hola soy 74954, vuelta: 93, contador: 398
+hola soy 74954, vuelta: 94, contador: 399
+hola soy 74954, vuelta: 95, contador: 400
+hola soy 74956, vuelta: 83, contador: 395
+hola soy 74954, vuelta: 96, contador: 401
+hola soy 74956, vuelta: 84, contador: 402
+hola soy 74956, vuelta: 85, contador: 403
+hola soy 74956, vuelta: 86, contador: 404
+hola soy 74956, vuelta: 87, contador: 405
+hola soy 74956, vuelta: 88, contador: 406
+hola soy 74956, vuelta: 89, contador: 407
+hola soy 74956, vuelta: 90, contador: 408
+hola soy 74956, vuelta: 91, contador: 409
+hola soy 74956, vuelta: 92, contador: 410
+hola soy 74956, vuelta: 93, contador: 411
+hola soy 74954, vuelta: 97, contador: 411
+hola soy 74956, vuelta: 94, contador: 412
+hola soy 74956, vuelta: 95, contador: 413
+hola soy 74954, vuelta: 98, contador: 413
+hola soy 74956, vuelta: 96, contador: 414
+hola soy 74954, vuelta: 99, contador: 415
+hola soy 74956, vuelta: 97, contador: 416
+hola soy 74956, vuelta: 98, contador: 417
+hola soy 74956, vuelta: 99, contador: 418
+adios
+Valor final del contador 418
+fin
+[1m[7m%[27m[1m[0m                                                                                ]7;file://nicksmac.local/Users/nickmachin/Desktop/proyectos/pprpa/GITymultiprocessing[0m[27m[24m[Jnickmachin@nicksmac GITymultiprocessing % [K[?2004h[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Feb  8 08:31:48 2023
